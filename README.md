@@ -1,2 +1,2 @@
-# desafio-dio-git-github
-Repositório do Primeiro desafio da Dio.me  sobre Git/Github
+# Desafio da Dio.me sobre Git/Github :heart:
+### Repositório criado para o Desafio de Projeto.
